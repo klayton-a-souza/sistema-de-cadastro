@@ -1,4 +1,4 @@
-# Sistema de cadastro de jogos
+# Sistema de cadastro de mangas
 
 > Status do projeto: Desenvolvimento
 
